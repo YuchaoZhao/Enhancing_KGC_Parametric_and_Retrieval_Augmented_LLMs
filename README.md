@@ -1,2 +1,2 @@
-# Knowledge Graph Construction with Large Language Models
+# Enhancing Knowledge Graph Construction: Ensembling Parametric and Retrieval-Augmented LLMs
 ### Under constructing...
