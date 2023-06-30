@@ -1,0 +1,50 @@
+{"sub_label": "Venustus", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 58, "fewshotk": 10}
+{"sub_label": "Lagurini", "relation": "P105", "obj_label": [{"alternative": ["tribus"], "rdf": "tribe", "chosen": "tribe"}], "prediction": "genus", "sub_pop": 226, "fewshotk": 10}
+{"sub_label": "Margarites angulatus", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 18, "fewshotk": 10}
+{"sub_label": "Lycaenops", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 754, "fewshotk": 10}
+{"sub_label": "Germanosaurus", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 170, "fewshotk": 10}
+{"sub_label": "Aegidae", "relation": "P105", "obj_label": [{"alternative": ["familia"], "rdf": "family", "chosen": "family"}], "prediction": "family", "sub_pop": 178, "fewshotk": 10}
+{"sub_label": "Scutalus phaeocheilus", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 40, "fewshotk": 10}
+{"sub_label": "Anthracoceratidae", "relation": "P105", "obj_label": [{"alternative": ["familia"], "rdf": "family", "chosen": "family"}], "prediction": "genus", "sub_pop": 25, "fewshotk": 10}
+{"sub_label": "Mitrella angustalineata", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 20, "fewshotk": 10}
+{"sub_label": "Stigmaulax cayennensis", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 31, "fewshotk": 10}
+{"sub_label": "Dermogenys", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 173, "fewshotk": 10}
+{"sub_label": "Doraops zuloagai", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 33, "fewshotk": 10}
+{"sub_label": "Monoxylena", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 19, "fewshotk": 10}
+{"sub_label": "Hespererato rehderi", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 36, "fewshotk": 10}
+{"sub_label": "Mobilabium", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 48, "fewshotk": 10}
+{"sub_label": "Eulitoma", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 38, "fewshotk": 10}
+{"sub_label": "Electresia", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 44, "fewshotk": 10}
+{"sub_label": "Torquigener andersonae", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 45, "fewshotk": 10}
+{"sub_label": "Pustularia chiapponii", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 29, "fewshotk": 10}
+{"sub_label": "Copeina guttata", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 53, "fewshotk": 10}
+{"sub_label": "Hydromylidae", "relation": "P105", "obj_label": [{"alternative": ["familia"], "rdf": "family", "chosen": "family"}], "prediction": "family", "sub_pop": 76, "fewshotk": 10}
+{"sub_label": "Microdaceton", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 49, "fewshotk": 10}
+{"sub_label": "Paratheocris", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 19, "fewshotk": 10}
+{"sub_label": "Daohugoupterus", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 197, "fewshotk": 10}
+{"sub_label": "Petronymphe", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 64, "fewshotk": 10}
+{"sub_label": "Globicephalinae", "relation": "P105", "obj_label": [{"alternative": ["sub-family", "subfamilia"], "rdf": "subfamily", "chosen": "subfamily"}], "prediction": "genus", "sub_pop": 943, "fewshotk": 10}
+{"sub_label": "Clanculus johnstoni", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 24, "fewshotk": 10}
+{"sub_label": "Turbonilla philomelae", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 23, "fewshotk": 10}
+{"sub_label": "Dioon holmgrenii", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 87, "fewshotk": 10}
+{"sub_label": "Obregonia", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 355, "fewshotk": 10}
+{"sub_label": "Hypericum tomentosum", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 101, "fewshotk": 10}
+{"sub_label": "Porphyrospiza", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 98, "fewshotk": 10}
+{"sub_label": "Falsitromina tricarinata", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 36, "fewshotk": 10}
+{"sub_label": "Zodarion epirense", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "genus", "sub_pop": 61, "fewshotk": 10}
+{"sub_label": "Verbena bonariensis", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 2942, "fewshotk": 10}
+{"sub_label": "Isodictya", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 53, "fewshotk": 10}
+{"sub_label": "Diplommatina cacuminulus", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 41, "fewshotk": 10}
+{"sub_label": "Chromendothia", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 26, "fewshotk": 10}
+{"sub_label": "Coleonyx brevis", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 372, "fewshotk": 10}
+{"sub_label": "Tranoses", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "family", "sub_pop": 25, "fewshotk": 10}
+{"sub_label": "Cerodrillia brunnea", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 22, "fewshotk": 10}
+{"sub_label": "Yunnanocephalus", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 122, "fewshotk": 10}
+{"sub_label": "Ctenoglypta", "relation": "P105", "obj_label": [{"alternative": ["monospecies genus", "genus (zoology)"], "rdf": "genus", "chosen": "genus"}], "prediction": "genus", "sub_pop": 43, "fewshotk": 10}
+{"sub_label": "Ancilla murrayi", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 23, "fewshotk": 10}
+{"sub_label": "Gelonieae", "relation": "P105", "obj_label": [{"alternative": ["tribus"], "rdf": "tribe", "chosen": "tribe"}], "prediction": "family", "sub_pop": 48, "fewshotk": 10}
+{"sub_label": "Pradoxa urdambideli", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 21, "fewshotk": 10}
+{"sub_label": "Clionella confusa", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 28, "fewshotk": 10}
+{"sub_label": "Bucculatrix quinquenotella", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 43, "fewshotk": 10}
+{"sub_label": "Erinacea anthyllis", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 163, "fewshotk": 10}
+{"sub_label": "Austrasiatica langfordi", "relation": "P105", "obj_label": [{"alternative": ["sp."], "rdf": "species", "chosen": "species"}], "prediction": "species", "sub_pop": 73, "fewshotk": 10}

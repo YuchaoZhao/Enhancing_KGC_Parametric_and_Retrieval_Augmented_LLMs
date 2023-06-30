@@ -1,0 +1,17 @@
+{'ensemble': {'10': {'all_prec': '49.70% (47.90%)', 'all_rec': '47.97% (46.25%)', 'F1': '48.82% (47.06%)'}}}
+/gpfs/home1/yzhao/KAMEL/create_tables_plots_rag.py:274: FutureWarning: In future versions `DataFrame.to_latex` is expected to utilise the base implementation of `Styler.to_latex` for formatting and rendering. The arguments signature may therefore change. It is recommended instead to use `DataFrame.style.to_latex` which also contains additional functionality.
+  tf.write(df.to_latex())
+                         Prec (%)          Rec (%)           F1 (%)
+Model    Fewshot                                                   
+ensemble 10       49.70% (47.90%)  47.97% (46.25%)  48.82% (47.06%)
+                      count  all_prec   all_rec     F1
+Model    Cardinality                                  
+ensemble 2               42  0.476190  0.238095  31.75
+         1              937  0.498399  0.498399  49.84
+         4                7  0.571429  0.142857  22.86
+         3               10  0.400000  0.133333  20.00
+         5                2  1.000000  0.200000  33.33
+         7                2  0.000000  0.000000   0.00
+                     count  all_prec   all_rec     F1
+Model    Query Type                                  
+ensemble Entites      1000     0.497  0.479733  48.82

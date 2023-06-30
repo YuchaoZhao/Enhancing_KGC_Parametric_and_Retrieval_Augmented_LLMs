@@ -1,0 +1,50 @@
+{"sub_label": "Ag\u00fcero Point", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 41, "fewshotk": 10}
+{"sub_label": "Mount Mullen", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 46, "fewshotk": 10}
+{"sub_label": "St. Lawrence River", "relation": "P30", "obj_label": [{"alternative": ["NA"], "rdf": "North America", "chosen": "North America"}], "prediction": "Antarctica", "sub_pop": 21031, "fewshotk": 10}
+{"sub_label": "Sirma Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 72, "fewshotk": 10}
+{"sub_label": "Sponholz Peak", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 39, "fewshotk": 10}
+{"sub_label": "Steventon Island", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 63, "fewshotk": 10}
+{"sub_label": "Rainbow Ridge", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 97, "fewshotk": 10}
+{"sub_label": "Remenchus Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 39, "fewshotk": 10}
+{"sub_label": "Villagra Point", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 29, "fewshotk": 10}
+{"sub_label": "Kozma Cove", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 47, "fewshotk": 10}
+{"sub_label": "Patriot Hills Camp", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 408, "fewshotk": 10}
+{"sub_label": "Nicolai Peak", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 35, "fewshotk": 10}
+{"sub_label": "Crawford Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 34, "fewshotk": 10}
+{"sub_label": "Lamplugh Inlet", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 30, "fewshotk": 10}
+{"sub_label": "Fletcher Ice Rise", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 73, "fewshotk": 10}
+{"sub_label": "Mount Rhone", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Africa", "sub_pop": 56, "fewshotk": 10}
+{"sub_label": "Harmony Cove", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 94, "fewshotk": 10}
+{"sub_label": "Bouquet Bay", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 56, "fewshotk": 10}
+{"sub_label": "Tsamblak Hill", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 49, "fewshotk": 10}
+{"sub_label": "Amphitheatre Peaks", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 50, "fewshotk": 10}
+{"sub_label": "Baldwin Bluff", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 28, "fewshotk": 10}
+{"sub_label": "Altsek Nunatak", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 55, "fewshotk": 10}
+{"sub_label": "Mount Donaldson", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 64, "fewshotk": 10}
+{"sub_label": "Port Lockroy", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 4122, "fewshotk": 10}
+{"sub_label": "Burgas Peninsula", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 138, "fewshotk": 10}
+{"sub_label": "Simitli Point", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 43, "fewshotk": 10}
+{"sub_label": "Angus Nunatak", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 26, "fewshotk": 10}
+{"sub_label": "English Strait", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 121, "fewshotk": 10}
+{"sub_label": "Levski Ridge", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 80, "fewshotk": 10}
+{"sub_label": "Warsaw", "relation": "P30", "obj_label": [{"alternative": ["Old continent", "European continent"], "rdf": "Europe", "chosen": "Europe"}], "prediction": "Antarctica", "sub_pop": 108441, "fewshotk": 10}
+{"sub_label": "East Ongul Island", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 170, "fewshotk": 10}
+{"sub_label": "Catahoula Lake", "relation": "P30", "obj_label": [{"alternative": ["NA"], "rdf": "North America", "chosen": "North America"}], "prediction": "Antarctica", "sub_pop": 328, "fewshotk": 10}
+{"sub_label": "Mount Wilbye", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 52, "fewshotk": 10}
+{"sub_label": "Sedgwick Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 36, "fewshotk": 10}
+{"sub_label": "Loznica", "relation": "P30", "obj_label": [{"alternative": ["Old continent", "European continent"], "rdf": "Europe", "chosen": "Europe"}], "prediction": "Antarctica", "sub_pop": 2707, "fewshotk": 10}
+{"sub_label": "Mount Treadwell", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 53, "fewshotk": 10}
+{"sub_label": "Bangalla", "relation": "P30", "obj_label": [{"alternative": ["African continent", "Ancient Libya"], "rdf": "Africa", "chosen": "Africa"}], "prediction": "Antarctica", "sub_pop": 821, "fewshotk": 10}
+{"sub_label": "Linder Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 24, "fewshotk": 10}
+{"sub_label": "West Quartzite Range", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 37, "fewshotk": 10}
+{"sub_label": "Plovdiv", "relation": "P30", "obj_label": [{"alternative": ["Old continent", "European continent"], "rdf": "Europe", "chosen": "Europe"}], "prediction": "Antarctica", "sub_pop": 20104, "fewshotk": 10}
+{"sub_label": "Eliza Rocks", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 74, "fewshotk": 10}
+{"sub_label": "Mitino Buttress", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 25, "fewshotk": 10}
+{"sub_label": "Mamor\u00e9 River", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "South America", "chosen": "South America"}], "prediction": "Antarctica", "sub_pop": 516, "fewshotk": 10}
+{"sub_label": "Lauritzen Bay", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 48, "fewshotk": 10}
+{"sub_label": "Korsis Island", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 53, "fewshotk": 10}
+{"sub_label": "Organpipe Point", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 34, "fewshotk": 10}
+{"sub_label": "Mount Westminster", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 42, "fewshotk": 10}
+{"sub_label": "Hondius Inlet", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 51, "fewshotk": 10}
+{"sub_label": "Hayes Peak", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 59, "fewshotk": 10}
+{"sub_label": "Astakhov Glacier", "relation": "P30", "obj_label": [{"alternative": [], "rdf": "Antarctica", "chosen": "Antarctica"}], "prediction": "Antarctica", "sub_pop": 72, "fewshotk": 10}
